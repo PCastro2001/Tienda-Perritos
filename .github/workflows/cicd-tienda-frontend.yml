@@ -51,3 +51,5 @@ jobs:
         service: ${{ env.ECS_SERVICE }}
         cluster: ${{ env.ECS_CLUSTER }}
         image: ${{ steps.build-image.outputs.image }}
+        
+        # Forzar reinicio de pipeline ECS
