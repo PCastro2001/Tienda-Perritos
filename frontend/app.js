@@ -186,3 +186,6 @@ btnCancelar.addEventListener("click", () => {
 
 // Cargar productos al iniciar
 cargarProductos();
+
+
+// Despliegue inicial en AWS ECS Fargate
