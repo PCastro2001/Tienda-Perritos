@@ -139,4 +139,4 @@ app.listen(PORT, async () => {
   await initDb();
 });
 
-// Despliegue inicial en AWS ECS Fargate
+// Forzar ejecucion del pipeline ECS Backend v2

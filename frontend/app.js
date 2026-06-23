@@ -188,4 +188,4 @@ btnCancelar.addEventListener("click", () => {
 cargarProductos();
 
 
-// Despliegue inicial en AWS ECS Fargate
+// Forzar ejecucion del pipeline ECS Frontend v2
